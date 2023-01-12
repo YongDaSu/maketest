@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(void){
-    int temp'
+    int temp;
     cout<<"temp is "<<temp<<endl;
 
-    return 
+    return 0;
 }
 
